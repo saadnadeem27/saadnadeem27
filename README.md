@@ -95,7 +95,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/saadnadeem27">
@@ -104,7 +104,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <a href="https://github.com/saadnadeem27">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadnadeem27&repo=repo2&theme=radical&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 ---
 
