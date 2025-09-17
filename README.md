@@ -60,10 +60,6 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
 ### 📱 **Mobile Development Excellence**
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
@@ -72,12 +68,12 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <br><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode&theme=dark&perline=5" />
   <br><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=039BE5">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </div>
 
 <div align="center">
@@ -86,42 +82,32 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
 </div>
 
-</td>
-<td align="center" width="50%">
-
-### 🔧 **Development Arsenal**
+### 🔧 **Development Tools & Environment**
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,git,github&theme=dark&perline=5" />
   <br><br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84">
-  <br>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white&labelColor=007ACC">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🌐 **Backend & Integration**
+### 🌐 **Backend & Full-Stack Development**
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman,react,nextjs&theme=dark&perline=6" />
   <br><br>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6DA55F">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
-
-</td>
-<td align="center" width="50%">
 
 ### ☁️ **Cloud & DevOps**
 <div align="center">
@@ -129,29 +115,20 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <br><br>
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker&theme=dark&perline=3" />
   <br><br>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900">
-  <br>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=0db7ed">
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Flutter+Professional+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&bg=%230d1117&badge=%2358a6ff&border=%2330363d&titleColor=%2358a6ff&line1=flutter%2CFlutter%2C02569B%3Bdart%2CDart%2C0175C2%3Bfirebase%2CFirebase%2C039BE5%3Bandroid%2CAndroid%2C3DDC84%3Bios%2CiOS%2C000000%3B&line2=nodejs%2CNode.js%2C6DA55F%3Bmongodb%2CMongoDB%2C4EA94B%3Bmysql%2CMySQL%2C00758F%3Bgooglecloud%2CGCP%2C4285F4%3Baws%2CAWS%2CFF9900%3B" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-  <strong>⚡ Mastering the Art of Cross-Platform Excellence ⚡</strong>
+  <strong>⚡ Full-Stack Mobile & Web Solutions Expert ⚡</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 </div>
 
@@ -262,7 +239,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
   <strong>Building the Future, One Flutter App at a Time</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
-</div> -->
+</div>
 
 ---
 
@@ -295,7 +272,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>💼 Open for Opportunities</h2>
+  <h2>💼 Professional Services & Opportunities</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
@@ -303,20 +280,90 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
-I'm always interested in discussing new opportunities, collaborations, and exciting projects. Whether you're looking for:
+I specialize in delivering **complete end-to-end solutions** for businesses and startups. My expertise spans the entire development lifecycle, from concept to deployment and maintenance.
+
+## 🚀 **Complete Solution Architecture**
+
+### 📱 **Mobile App Development** 
+- **Flutter Cross-Platform Apps** (Android & iOS)
+- **Native Performance** with single codebase
+- **Custom UI/UX Design** implementation
+- **Real-time Features** (Chat, Notifications, Live Updates)
+- **Offline Functionality** with local storage
+- **App Store & Play Store** deployment
+
+### 🌐 **Admin Panel & Dashboard Development**
+- **Responsive Web Admin Panels** using React/Next.js
+- **Real-time Analytics** and reporting systems
+- **User Management** and role-based access control
+- **Content Management Systems** (CMS)
+- **Data Visualization** with charts and graphs
+- **Mobile-responsive** design for all devices
+
+### 💻 **Website Development**
+- **Professional Business Websites** 
+- **E-commerce Platforms** with payment integration
+- **Landing Pages** for marketing campaigns
+- **Portfolio Websites** for professionals
+- **Blog & CMS Websites** 
+- **SEO Optimized** and fast-loading sites
+
+### 🔧 **Backend & API Development**
+- **RESTful API Development** with Node.js
+- **Database Design** (MongoDB, MySQL, PostgreSQL)
+- **Authentication & Authorization** systems
+- **Payment Gateway Integration** (Stripe, PayPal)
+- **Cloud Integration** (AWS, Google Cloud)
+- **Real-time Communication** (WebSockets, Socket.io)
 
 <div align="center">
-
-**📱 Mobile app development consultation**  
-**🔧 Flutter development services**  
-**👥 Technical leadership roles**  
-**🚀 Innovative project collaborations**
-
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
 </div>
+
+## 💡 **What I Offer:**
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **For Businesses**
+- **Complete Digital Transformation**
+- **Custom Mobile & Web Solutions**
+- **Scalable Architecture Design**
+- **Performance Optimization**
+- **Maintenance & Support**
+- **Technical Consultation**
+
+</td>
+<td align="center" width="50%">
+
+### � **For Startups**
+- **MVP Development** 
+- **Rapid Prototyping**
+- **Cost-Effective Solutions**
+- **Scalable Foundation**
+- **Growth-Ready Architecture**
+- **Technical Co-founder Support**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
+  <strong>Ready to transform your ideas into powerful digital solutions?</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
+</div>
+
+## 📞 **Let's Discuss Your Project**
+
+Whether you need a **complete mobile app with admin panel**, a **professional website**, or a **full-stack solution**, I'm here to bring your vision to life with cutting-edge technology and professional expertise.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-  <strong>Feel free to reach out! Let's build something amazing together.</strong>
+  <strong>Contact me today for a free consultation!</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 </div>
 
