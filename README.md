@@ -162,9 +162,9 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-</div>
+</div> -->
 
 ### 🎯 Core Expertise
 <img align="right" alt="Working" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
