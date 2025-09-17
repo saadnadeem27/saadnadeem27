@@ -18,10 +18,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -53,21 +49,14 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>🛠️ Tech Stack & Professional Skills</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+## 🛠️ Tech Stack & Professional Skills
+
 </div>
 
 ### 📱 **Mobile Development Excellence**
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
   <br><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode&theme=dark&perline=5" />
@@ -125,27 +114,15 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
   <strong>⚡ Full-Stack Mobile & Web Solutions Expert ⚡</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>📊 GitHub Statistics</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+## 📊 GitHub Statistics
+
 </div>
 
 <div align="center">
@@ -180,9 +157,9 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>🏆 Professional Experience</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+## 🏆 Professional Experience
+
 </div>
 
 <div align="center">
@@ -202,12 +179,6 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 - 🎨 **UI/UX Implementation** from design to pixel-perfect apps on Android & iOS
 - ✅ **Code Quality** & Testing (Unit, Widget, Integration tests)
 - 🚀 **CI/CD Pipeline** setup and deployment to Google Play Store & Apple App Store
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-</div>
 
 ### 📈 Key Achievements
 - ✨ **5+ years** of professional mobile development experience
@@ -248,13 +219,11 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>📫 Let's Connect!</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+## 📫 Let's Connect!
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257469-84f20ee2-9a4c-4de9-82aa-65a62c2c60bf.gif" width="100">
 </div>
 
 <div align="center">
@@ -266,22 +235,12 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>💼 Professional Services & Opportunities</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+## 💼 Professional Services & Opportunities
+
 </div>
 
 I specialize in delivering **complete end-to-end solutions** for businesses and startups. My expertise spans the entire development lifecycle, from concept to deployment and maintenance.
@@ -356,9 +315,7 @@ I specialize in delivering **complete end-to-end solutions** for businesses and 
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
   <strong>Ready to transform your ideas into powerful digital solutions?</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
 </div>
 
 ## 📞 **Let's Discuss Your Project**
@@ -366,9 +323,7 @@ I specialize in delivering **complete end-to-end solutions** for businesses and 
 Whether you need a **complete mobile app with admin panel**, a **professional website**, or a **full-stack solution**, I'm here to bring your vision to life with cutting-edge technology and professional expertise.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
   <strong>Contact me today for a free consultation!</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 </div>
 
 ---
