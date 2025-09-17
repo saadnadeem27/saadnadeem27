@@ -59,7 +59,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,xcode&theme=dark&perline=6" />
   <br><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -96,6 +96,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
@@ -174,7 +175,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 - 🔧 **Native Mobile Integration** with platform-specific features and APIs
 - ⚡ **State Management** (Provider, Bloc, Riverpod, GetX)
 - 🌐 **API Integration** & RESTful Services
-- 💾 **Database Management** (SQLite, Hive, Firebase)
+- 💾 **Database Management** (SQLite, Hive, Firebase, Supabase)
 - 🏎️ **Performance Optimization** & Memory Management for both platforms
 - 🎨 **UI/UX Implementation** from design to pixel-perfect apps on Android & iOS
 - ✅ **Code Quality** & Testing (Unit, Widget, Integration tests)
