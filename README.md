@@ -214,7 +214,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 - 👥 Experience with agile development methodologies and cross-functional teams
 - 🎓 Mentoring junior developers and establishing code review processes
 
----
+<!-- ---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -239,7 +239,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
   <strong>Building the Future, One Flutter App at a Time</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="30">
-</div>
+</div> -->
 
 ---
 
