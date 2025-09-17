@@ -83,7 +83,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,git,github&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=dark&perline=4" />
   <br><br>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
