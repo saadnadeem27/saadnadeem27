@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Saad Nadeem
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Senior%20Flutter%20Developer&fontSize=90&fontAlignY=38&desc=5%2B%20Years%20|%20Cross-Platform%20Expert%20|%20Android%20%26%20iOS&descAlignY=51&descAlign=62&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:009FFF,30:004CFF,75:732982,100:2D1B69&height=300&section=header&text=Senior%20Flutter%20Developer&fontSize=70&fontAlign=50&fontAlignY=40&desc=5+%20Years%20|%20Cross-Platform%20Expert%20|%20Android%20%26%20iOS&descAlign=50&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
