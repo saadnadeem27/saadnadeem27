@@ -69,8 +69,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   
-  <br>
-  <em>Supabase — realtime backend (database, auth, storage) commonly used alongside Flutter for fast full‑stack mobile apps.</em>
+  
 </div>
 
 <div align="center">
