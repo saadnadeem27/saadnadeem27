@@ -59,7 +59,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,xcode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,xcode,apple&theme=dark&perline=7" />
   <br><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -68,6 +68,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple logo" />
   
   
 </div>
