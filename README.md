@@ -58,6 +58,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50"/>
   <br><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,xcode,apple&theme=dark&perline=7" />
   <br><br>
