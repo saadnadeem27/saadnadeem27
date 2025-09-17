@@ -139,13 +139,9 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 <div align="center">
   <picture>
-    <!-- Try streak widget first (dark theme) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.workers.dev?user=saadnadeem27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff">
-    <!-- Fallback to a reliable contribution graph if streak image fails -->
-    <img src="https://ghchart.rshah.org/saadnadeem27" alt="GitHub contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&include_all_commits=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
   </picture>
-  <br>
-  <small>If the streak widget is unavailable, view the full contributions on <a href="https://github.com/saadnadeem27">my GitHub profile</a>.</small>
 </div>
 
 <div align="center">
