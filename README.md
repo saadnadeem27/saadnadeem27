@@ -59,9 +59,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,xcode,apple&theme=dark&perline=7" />
-  <!-- explicit Xcode fallback to avoid rendering gap on some renderers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" style="vertical-align:middle;margin-left:8px"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,apple&theme=dark&perline=7" />
   <br><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
