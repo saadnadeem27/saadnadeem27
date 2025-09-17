@@ -50,58 +50,109 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <h2>🛠️ Tech Stack & Skills</h2>
+  <h2>🛠️ Tech Stack & Professional Skills</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-### 📱 Mobile Development
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 📱 **Mobile Development Excellence**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode&theme=dark&perline=5" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2">
+  <br>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=039BE5">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=000000">
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
-  <strong>Flutter Advantage: One codebase → Native Android + iOS apps</strong>
+  <strong>Flutter Magic: One Code → Two Native Apps</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d4.gif" width="30">
 </div>
 
-### 🔧 Development Tools
+</td>
+<td align="center" width="50%">
+
+### 🔧 **Development Arsenal**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,git,github" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
   <br><br>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,git,github&theme=dark&perline=5" />
+  <br><br>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84">
+  <br>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white&labelColor=007ACC">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032">
 </div>
 
-### 🌐 Backend & Services
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 **Backend & Integration**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
   <br><br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman&theme=dark&perline=4" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6DA55F">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F">
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37">
 </div>
 
-### ☁️ Cloud & DevOps
+</td>
+<td align="center" width="50%">
+
+### ☁️ **Cloud & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
   <br><br>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker&theme=dark&perline=3" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900">
+  <br>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=0db7ed">
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a1-4c9e-8925-b0db6a5bbd53.gif" width="40">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Flutter+Professional+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&bg=%230d1117&badge=%2358a6ff&border=%2330363d&titleColor=%2358a6ff&line1=flutter%2CFlutter%2C02569B%3Bdart%2CDart%2C0175C2%3Bfirebase%2CFirebase%2C039BE5%3Bandroid%2CAndroid%2C3DDC84%3Bios%2CiOS%2C000000%3B&line2=nodejs%2CNode.js%2C6DA55F%3Bmongodb%2CMongoDB%2C4EA94B%3Bmysql%2CMySQL%2C00758F%3Bgooglecloud%2CGCP%2C4285F4%3Baws%2CAWS%2CFF9900%3B" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
+  <strong>⚡ Mastering the Art of Cross-Platform Excellence ⚡</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 </div>
 
 ---
