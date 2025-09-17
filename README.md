@@ -139,8 +139,8 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&include_all_commits=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadnadeem27&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.workers.dev?user=saadnadeem27&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff">
+    <img src="https://streak-stats.demolab.workers.dev?user=saadnadeem27&theme=radical&hide_border=true" alt="GitHub Streak" />
   </picture>
 </div>
 
